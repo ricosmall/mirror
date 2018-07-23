@@ -1,0 +1,30 @@
+# site title
+title: 进击的前端
+
+# user name or organization name
+user: ricosmall
+
+# issue repository
+repository: mirror
+
+# multi-author
+authors: rico
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: d#6dcb062ee56583e5b438fef8b9d11c925f3f1cf
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'UPDATED_AT'
